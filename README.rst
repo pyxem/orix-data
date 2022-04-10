@@ -14,10 +14,10 @@ sdss_austenite
   :alt: CC BY 4.0
 
 - Origin: Acquired by Prof. Jarle Hjelen at NTNU.
-- Description: An orix HDF5 file with a single phase Austenite crystallographic
-  map of shape (100, 117) produced from dictionary indexing of EBSD of a super
-  duplex stainless steel (SDSS) sample containing both Austenite and Ferrite
-  grains.
+- Description: An EMsoft h5ebsd file with a single phase Austenite
+  crystallographic map of shape (100, 117) produced from dictionary indexing
+  of EBSD of a super duplex stainless steel (SDSS) sample containing both
+  Austenite and Ferrite grains.
 
 sdss_ferrite_austenite
 ----------------------
